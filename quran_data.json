@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "surah": "Adh-Dhariyat",
+    "ayah": 22,
+    "translation": "And in the heaven is your provision and whatever you are promised.",
+    "tags": ["rizq", "trust", "hope"]
+  },
+  {
+    "id": 2,
+    "surah": "Hud",
+    "ayah": 6,
+    "translation": "And there is no creature on earth except that its provision is from Allah.",
+    "tags": ["rizq", "trust"]
+  },
+  {
+    "id": 3,
+    "surah": "At-Talaq",
+    "ayah": 2,
+    "translation": "And whoever fears Allah – He will make for him a way out.",
+    "tags": ["rizq", "taqwa", "relief"]
+  },
+  {
+    "id": 4,
+    "surah": "At-Talaq",
+    "ayah": 3,
+    "translation": "And will provide for him from where he does not expect.",
+    "tags": ["rizq", "unexpected"]
+  },
+  {
+    "id": 5,
+    "surah": "Al-Baqarah",
+    "ayah": 286,
+    "translation": "Allah does not burden a soul beyond what it can bear.",
+    "tags": ["hope", "strength", "patience"]
+  },
+  {
+    "id": 6,
+    "surah": "Al-Imran",
+    "ayah": 159,
+    "translation": "Put your trust in Allah. Indeed, Allah loves those who rely upon Him.",
+    "tags": ["trust", "leadership"]
+  },
+  {
+    "id": 7,
+    "surah": "Ash-Shura",
+    "ayah": 27,
+    "translation": "If Allah were to expand the provision for His servants, they would transgress.",
+    "tags": ["rizq", "divine_wisdom"]
+  },
+  {
+    "id": 8,
+    "surah": "Ankabut",
+    "ayah": 60,
+    "translation": "How many creatures carry not their own provision! Allah provides for them and for you.",
+    "tags": ["rizq", "trust"]
+  },
+  {
+    "id": 9,
+    "surah": "Al-Jumuah",
+    "ayah": 10,
+    "translation": "When the prayer is finished, disperse through the land and seek the bounty of Allah.",
+    "tags": ["rizq", "work", "effort"]
+  },
+  {
+    "id": 10,
+    "surah": "Al-Baqarah",
+    "ayah": 172,
+    "translation": "O you who believe! Eat from the good things We have provided for you.",
+    "tags": ["rizq", "gratitude"]
+  },
+  {
+    "id": 11,
+    "surah": "Ibrahim",
+    "ayah": 7,
+    "translation": "If you are grateful, I will surely increase you.",
+    "tags": ["gratitude", "increase", "rizq"]
+  },
+  {
+    "id": 12,
+    "surah": "Al-Mulk",
+    "ayah": 15,
+    "translation": "It is He who made the earth manageable for you, so walk through its pathways and eat of His provision.",
+    "tags": ["effort", "rizq"]
+  },
+  {
+    "id": 13,
+    "surah": "Al-Maidah",
+    "ayah": 100,
+    "translation": "The good and the evil are not equal, even though the abundance of evil may impress you.",
+    "tags": ["wisdom", "decision"]
+  },
+  {
+    "id": 14,
+    "surah": "An-Nahl",
+    "ayah": 97,
+    "translation": "Whoever does righteousness… We will give them a good life.",
+    "tags": ["effort", "good_life"]
+  },
+  {
+    "id": 15,
+    "surah": "An-Nahl",
+    "ayah": 53,
+    "translation": "Whatever blessing you have is from Allah.",
+    "tags": ["rizq", "gratitude"]
+  },
+  {
+    "id": 16,
+    "surah": "Al-Anfal",
+    "ayah": 60,
+    "translation": "Prepare against them whatever you are able of power.",
+    "tags": ["planning", "strategy"]
+  },
+  {
+    "id": 17,
+    "surah": "Al-Ankabut",
+    "ayah": 69,
+    "translation": "And those who strive for Us – We will surely guide them to Our ways.",
+    "tags": ["effort", "guidance"]
+  },
+  {
+    "id": 18,
+    "surah": "Al-Isra",
+    "ayah": 80,
+    "translation": "My Lord, cause me to enter with a truthful entrance and exit.",
+    "tags": ["dua", "planning"]
+  },
+  {
+    "id": 19,
+    "surah": "Az-Zumar",
+    "ayah": 53,
+    "translation": "Do not despair of the mercy of Allah.",
+    "tags": ["hope", "mercy"]
+  },
+  {
+    "id": 20,
+    "surah": "Al-Baqarah",
+    "ayah": 45,
+    "translation": "Seek help through patience and prayer.",
+    "tags": ["sabr", "prayer", "focus"]
+  },
+
+  {
+    "id": 21,
+    "surah": "Al-Baqarah",
+    "ayah": 152,
+    "translation": "Remember Me; I will remember you.",
+    "tags": ["gratitude", "dhikr"]
+  },
+  {
+    "id": 22,
+    "surah": "Al-Baqarah",
+    "ayah": 286,
+    "translation": "To Allah belongs whatever is in the heavens and the earth.",
+    "tags": ["understanding", "power"]
+  },
+  {
+    "id": 23,
+    "surah": "Al-Imran",
+    "ayah": 139,
+    "translation": "Do not lose heart nor fall into despair; you will be superior if you are believers.",
+    "tags": ["motivation", "strength"]
+  },
+  {
+    "id": 24,
+    "surah": "Al-Imran",
+    "ayah": "37",
+    "translation": "Allah provides for whom He wills without measure.",
+    "tags": ["rizq", "unlimited"]
+  },
+  {
+    "id": 25,
+    "surah": "Al-Imran",
+    "ayah": 26,
+    "translation": "You honor whom You will, and You humble whom You will.",
+    "tags": ["divine_will"]
+  },
+  {
+    "id": 26,
+    "surah": "An-Nisa",
+    "ayah": 32,
+    "translation": "For men is a share of what they earn, and for women is a share of what they earn.",
+    "tags": ["rizq", "effort"]
+  },
+  {
+    "id": 27,
+    "surah": "An-Nisa",
+    "ayah": 79,
+    "translation": "Whatever good befalls you is from Allah; whatever evil befalls you is from yourself.",
+    "tags": ["accountability", "rizq"]
+  },
+  {
+    "id": 28,
+    "surah": "Al-Maidah",
+    "ayah": 8,
+    "translation": "Be just; that is nearer to righteousness.",
+    "tags": ["justice", "ethics"]
+  },
+  {
+    "id": 29,
+    "surah": "Al-Araf",
+    "ayah": 96,
+    "translation": "If only the people of the towns had believed and feared Allah, We would have opened for them blessings from the heavens and the earth.",
+    "tags": ["rizq", "taqwa"]
+  },
+  {
+    "id": 30,
+    "surah": "Al-Araf",
+    "ayah": 10,
+    "translation": "We have certainly established you on the earth and made for you therein livelihoods.",
+    "tags": ["rizq", "livelihood"]
+  },
+  {
+    "id": 31,
+    "surah": "Yunus",
+    "ayah": 58,
+    "translation": "In the bounty of Allah and His mercy – let them rejoice.",
+    "tags": ["gratitude", "rizq"]
+  },
+  {
+    "id": 32,
+    "surah": "Hud",
+    "ayah": 3,
+    "translation": "Seek forgiveness of your Lord… He will increase you in strength.",
+    "tags": ["forgiveness", "strength"]
+  },
+  {
+    "id": 33,
+    "surah": "Hud",
+    "ayah": 52,
+    "translation": "Seek forgiveness… He will send rain in abundance and add strength to your strength.",
+    "tags": ["rizq", "rain"]
+  },
+  {
+    "id": 34,
+    "surah": "Ibrahim",
+    "ayah": 23,
+    "translation": "Those who believe and do righteous deeds will be admitted to gardens beneath which rivers flow.",
+    "tags": ["reward", "hope"]
+  },
+  {
+    "id": 35,
+    "surah": "Al-Hijr",
+    "ayah": 21,
+    "translation": "There is not a thing but its treasures are with Us.",
+    "tags": ["rizq", "control"]
+  },
+  {
+    "id": 36,
+    "surah": "An-Nahl",
+    "ayah": 10,
+    "translation": "He sends down rain from the sky; from it is drink and from it grows vegetation.",
+    "tags": ["rizq", "nature"]
+  },
+  {
+    "id": 37,
+    "surah": "Al-Isra",
+    "ayah": 17,
+    "translation": "We have honored the children of Adam.",
+    "tags": ["value", "motivation"]
+  },
+  {
+    "id": 38,
+    "surah": "Al-Isra",
+    "ayah": 19,
+    "translation": "Whoever desires the Hereafter and strives for it… their striving is appreciated.",
+    "tags": ["effort", "purpose"]
+  },
+  {
+    "id": 39,
+    "surah": "Maryam",
+    "ayah": 76,
+    "translation": "Allah increases in guidance those who are guided.",
+    "tags": ["guidance"]
+  },
+  {
+    "id": 40,
+    "surah": "Taha",
+    "ayah": 132,
+    "translation": "Command your family to pray… We provide for you.",
+    "tags": ["rizq", "family"]
+  },
+  {
+    "id": 41,
+    "surah": "Al-Anbiya",
+    "ayah": 90,
+    "translation": "They used to hasten to good deeds and call upon Us in hope and fear.",
+    "tags": ["effort", "dua"]
+  },
+  {
+    "id": 42,
+    "surah": "Al-Hajj",
+    "ayah": 58,
+    "translation": "Those who migrate in the cause of Allah… We will surely provide for them a good provision.",
+    "tags": ["rizq", "migration"]
+  },
+  {
+    "id": 43,
+    "surah": "Al-Muminun",
+    "ayah": 62,
+    "translation": "We do not burden a soul beyond its capacity.",
+    "tags": ["patience", "strength"]
+  },
+  {
+    "id": 44,
+    "surah": "An-Nur",
+    "ayah": 38,
+    "translation": "That Allah may reward them for the best of what they did and increase them from His bounty.",
+    "tags": ["rizq", "reward"]
+  },
+  {
+    "id": 45,
+    "surah": "Al-Furqan",
+    "ayah": 67,
+    "translation": "They are those who are balanced in their spending.",
+    "tags": ["finance", "rizq", "balance"]
+  },
+  {
+    "id": 46,
+    "surah": "Ar-Rum",
+    "ayah": 37,
+    "translation": "Allah extends provision for whom He wills and restricts it.",
+    "tags": ["rizq", "wisdom"]
+  },
+  {
+    "id": 47,
+    "surah": "Fatir",
+    "ayah": 3,
+    "translation": "Is there any creator other than Allah who provides for you from the heaven and the earth?",
+    "tags": ["tawhid", "rizq"]
+  },
+  {
+    "id": 48,
+    "surah": "Fatir",
+    "ayah": 29,
+    "translation": "Those who recite the Book of Allah… expect a trade that will never perish.",
+    "tags": ["quran", "effort"]
+  },
+  {
+    "id": 49,
+    "surah": "Az-Zumar",
+    "ayah": 36,
+    "translation": "Is Allah not sufficient for His servant?",
+    "tags": ["trust"]
+  },
+  {
+    "id": 50,
+    "surah": "Ash-Shura",
+    "ayah": 19,
+    "translation": "Allah is Gentle with His servants; He gives provision to whom He wills.",
+    "tags": ["rizq", "mercy"]
+  }
+]

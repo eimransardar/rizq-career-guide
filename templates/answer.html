@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Answer</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Your Question:</h2>
+    <p>{{ question }}</p>
+
+    <h2>Qur’an-based Rizq Answer:</h2>
+<div class="answer-box">
+    <p><strong>Surah:</strong> {{ answer.surah }}</p>
+    <p><strong>Ayah:</strong> {{ answer.ayah }}</p>
+    <p><strong>Meaning:</strong> {{ answer.translation }}</p>
+</div>
+
+    <a href="/" class="back">Ask Another Question</a>
+</div>
+
+</body>
+</html>
